@@ -11,6 +11,7 @@ payload:
   - DOMAIN-SUFFIX,twitchcdn.net
   - DOMAIN,radio.itunes.apple.com
   - DOMAIN,tv.applemusic.com
+  - DOMAIN,go.gradle.com
   - DOMAIN-SUFFIX,deezer.com
   - DOMAIN-SUFFIX,dzcdn.net
   - DOMAIN-SUFFIX,joox.com
